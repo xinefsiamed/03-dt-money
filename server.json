@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-11-28T22:05:00.430Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2022-12-09T00:57:57.202Z",
+      "id": 3
+    },
+    {
+      "category": "Presente",
+      "description": "Computador Joao",
+      "price": 1929,
+      "type": "outcome",
+      "createdAt": "2022-12-09T01:00:04.539Z",
+      "id": 4
+    },
+    {
+      "category": "Comida",
+      "description": "Iogurte de Banana",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2022-12-09T01:18:12.426Z",
+      "id": 5
     }
   ]
 }
